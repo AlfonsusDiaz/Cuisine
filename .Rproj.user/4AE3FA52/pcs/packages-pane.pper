@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "D:/Software 5th sem/R-4.0.2/library",
+        "installDependencies": true
+    }
+}
